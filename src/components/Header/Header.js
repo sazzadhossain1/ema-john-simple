@@ -25,7 +25,7 @@ const Header = () => {
         <nav className='header'>
             <img src={logo} alt="" />
             <div>
-                <a href="Shop">Shop</a>
+                <a href="Shop">ShOoop</a>
                 <a href="Orders">Orders</a>
                 <a href="inventory">Inventory</a>
                 <a href="about">About</a>
